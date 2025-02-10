@@ -16,7 +16,7 @@ Docker (optional, for retrieving logs from Docker containers)
 ### Setup
 1. Clone the Repository
 Clone this repository to your local machine:
-git clone https://github.com/your-username/CrossBrowserTest.git
+git clone https://github.com/aarthigk/CrossBrowserTest.git
 
 2. Install Dependencies
 This project uses Maven for dependency management. Ensure Maven is installed on your system and run:
