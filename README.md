@@ -9,10 +9,11 @@ Docker Log Retrieval: Captures Docker container logs for the Selenium Grid runni
 Google Search Test: Performs a Google search and verifies the page title contains "Apple".
 
 ## Prerequisites
-Java 11 or later
-Maven for dependency management
-Selenium Grid running locally or in Docker containers
-Docker (optional, for retrieving logs from Docker containers)
+#### Java 11 or later
+#### Maven for dependency management
+#### Selenium Grid running locally or in Docker containers
+#### Docker (optional, for retrieving logs from Docker containers)
+
 ### Setup
 1. Clone the Repository
 Clone this repository to your local machine:
